@@ -1,0 +1,5 @@
+{
+  "name": "SplitBill AI",
+  "description": "An intelligent split-screen bill splitting app. Upload receipts to automatically parse items, and use a smart chat interface to assign costs to friends using natural language.",
+  "requestFramePermissions": []
+}
